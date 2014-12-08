@@ -26,7 +26,7 @@ $config['login_autocomplete'] = 2;
 $config['ip_check'] = true;
 $config['des_key'] = 'UcFL2swQovqJywmydpgTEKbE';
 $config['useragent'] = 'UnityAppStudio Email'; // Hide version number
-//$config['username_domain'] = '';
+$config['username_domain'] = 'wassubs.com';
 $config['identities_level'] = 3;
 $config['mime_types'] = '/etc/mime.types';
 
