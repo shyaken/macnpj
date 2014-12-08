@@ -384,7 +384,7 @@ $config['des_key'] = 'rcmail-!24ByteDESkey*Str';
 // %d - domain (http hostname $_SERVER['HTTP_HOST'] without the first part)
 // %z - IMAP domain (IMAP hostname without the first part)
 // For example %n = mail.domain.tld, %t = domain.tld
-$config['username_domain'] = 'wassubs.com';
+$config['username_domain'] = 'unityappstudio.com';
 
 // Force domain configured in username_domain to be used for login.
 // Any domain in username will be replaced by username_domain.
