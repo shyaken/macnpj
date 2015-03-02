@@ -416,7 +416,7 @@ $config['max_recipients'] = 0;
 $config['max_group_members'] = 0; 
 
 // Name your service. This is displayed on the login screen and in the window title
-$config['product_name'] = 'Unity App Studio Email System';
+$config['product_name'] = 'Unity App Studio VN Email System';
 
 // Add this user-agent to message headers when sending
 $config['useragent'] = 'Roundcube Webmail/'.RCMAIL_VERSION;
